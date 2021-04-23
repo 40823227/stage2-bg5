@@ -23,8 +23,10 @@
 <v t="leo.20210423100133.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210423141048.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210423141053.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210423141058.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210423141101.1"><vh>slide 3-1</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -212,23 +214,10 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;滑軌&lt;/h2&gt;
-    &lt;img src="file:///D:/Desktop/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-04-23%20121918.jpg"style="height: 180px; margin: 0 auto 4rem auto; background: transparent; class="demo-logo"&gt;
+    &lt;h3&gt;滑軌&lt;/h3&gt;
+    &lt;img src="https://40823241.github.io/stage2-bg5/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-04-23%20121918.jpg"&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
     &lt;h1&gt;參考網址&lt;/h1&gt;
     https://kknews.cc/news/pg6lzmz.amp
@@ -251,6 +240,26 @@ vertical: body pane on the botton</t>
     &lt;/p&gt;
 &lt;/section&gt;
 
+</t>
+<t tx="leo.20210423141048.1">&lt;section&gt;
+    &lt;h3&gt;連桿&lt;/h3&gt;
+    &lt;img src="https://40823241.github.io/stage2-bg5/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-04-23%20124219.jpg"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423141053.1">&lt;section&gt;
+    &lt;h3&gt;輪子&lt;/h3&gt;
+    &lt;img src="https://40823241.github.io/stage2-bg5/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-04-23%20124540.jpg"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423141058.1">&lt;section&gt;
+    &lt;h3&gt;感光裝置&lt;/h3&gt;
+    &lt;img src="https://40823241.github.io/stage2-bg5/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-04-23%20124837.jpg"&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423141101.1">&lt;section&gt;
+    &lt;h3&gt;布幕&lt;/h3&gt;
+    &lt;img src="https://40823241.github.io/stage2-bg5/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-04-23%20125054.jpg"&gt;
+&lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
